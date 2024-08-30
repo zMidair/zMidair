@@ -6,4 +6,5 @@ Hi! I'm Midair and I sometimes program. I mostly make geode mods but rarely I te
 ### <img src="https://github.com/user-attachments/assets/7de1a00e-2d78-44aa-8157-6b75e52250f1" width="30" height="30"/> Fullscreen Keybind
 
 ![repo card](https://github-readme-stats.vercel.app/api/pin/?username=zMidair&repo=Fullscreen-Keybind&bg_color=45,092147,07455c&theme=algolia)
+
 **🌐 Link:** https://geode-sdk.org/mods/midair.fullscreen_keybind/
