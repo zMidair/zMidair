@@ -2,6 +2,7 @@
 Hi! I'm Midair and I sometimes program. I mostly make geode mods but rarely I tend to try other things.
 ## <img src="https://github.com/user-attachments/assets/218187d3-8902-416b-a885-c90f8cb8f4fc" width="30" height="30"> Stats
 ![Midair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zMidair&show_icons=true&bg_color=45,092147,07455c&theme=algolia)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zMidair&size_weight=0.5&count_weight=0.5)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zMidair)
 ## <img src="https://github.com/user-attachments/assets/e04f32a3-3c64-432f-91ec-f3782a84897c" width="30" height="30"> Released Geode Mods
